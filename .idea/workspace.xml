@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdf096ec-fbb4-4247-abca-df2e72912f6e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tomcat/src/main/java/org/example/connector/Impl/HttpConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tomcat/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tomcat/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tomcat/src/main/java/org/example/connector/HttpConnector.java" beforeDir="false" />
-    </list>
+    <list default="true" id="fdf096ec-fbb4-4247-abca-df2e72912f6e" name="更改" comment="第一次完成Connector和server start功能的实现，也就是启动服务器和请求的处理和响应" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +52,8 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true",
     "应用程序.Main.executor": "Run"
@@ -105,11 +99,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717140357718</updated>
-      <workItem from="1717140358790" duration="8678000" />
+      <workItem from="1717140358790" duration="9061000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次完成Connector和server start功能的实现，也就是启动服务器和请求的处理和响应">
+      <option name="closed" value="true" />
+      <created>1717149189783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717149189783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次完成Connector和server start功能的实现，也就是启动服务器和请求的处理和响应" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次完成Connector和server start功能的实现，也就是启动服务器和请求的处理和响应" />
   </component>
 </project>
