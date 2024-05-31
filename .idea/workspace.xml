@@ -42,7 +42,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
+=======
+    "git-widget-placeholder": "master",
+>>>>>>> master
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/WorkSpace/MyProject/JavaProject/Idea_Project/MyTomcat",
@@ -99,7 +103,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717140357718</updated>
+<<<<<<< HEAD
       <workItem from="1717140358790" duration="9497000" />
+=======
+      <workItem from="1717140358790" duration="9061000" />
+>>>>>>> master
     </task>
     <task id="LOCAL-00001" summary="第一次完成Connector和server start功能的实现，也就是启动服务器和请求的处理和响应">
       <option name="closed" value="true" />
